@@ -9,7 +9,9 @@ Realistic Scheduling, Strong Communication.
 Staying within budget prevents financial losses and maintains profitability. Clients expect projects to be delivered within the agreed budget; cost overruns can damage trust. Poor cost control can lead to funding shortages, causing delays or even project failure, and  Optimizes Resource Allocation. cost overruns can be prevented by Detailed Project Planning, Accurate Cost Estimation, Scope Management,Agile Development.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Agile Methodology is flexible, and has the ablity for consumer collaboration whereas waterfall methodology is 
+Agile Methodology is flexible, and has the ablity for consumer collaboration whereas waterfall methodology is like a linear flow where one has to complete a certain phase in order to access the next one.  Agile Advantagesis it has Faster Delivery,Better Flexibility,Higher Customer Satisfaction,Improved Risk Management. Agile Disadvantages are it 
+Requires Active Client Involvement, Less Predictability, Requires strong collaboration and communication.
+Waterfall Advantages are it has clear Structure, Predictable Timeline & Budget, Easier to Manage Large Projects. Waterfall Disadvantages are they are Inflexible to Changes, Bugs may not be discovered until the final stages, increasing costs, If the end product doesn’t meet expectations, major rework is required.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile method is useful for projects that require flexibility, and consumer collaboration and feedback. A example of these are web and mobile app developments like Uber and instagram that are based on consumer feedback and reviews. Waterfall method is effective if consumer feedback is not as nessecary and important. An example of this is mainly on banking apps, and government related projects. 
@@ -28,7 +30,7 @@ A Gantt chart is a visual representation of a project schedule that displays tas
 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+Clearly identifying the problem prevents unnecessary features and ensures the solution directly addresses user main points. A well-defined problem helps gather accurate user needs, reducing scope creep and misunderstandings. Developers can design optimized, scalable, and maintainable solutions when the problem is well understood. Avoiding ambiguity minimizes rework, budget overruns, and project delays.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
